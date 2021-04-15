@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="443.0" prefWidth="677.0" text="Atimosphera" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #000;">
+         <children>
+            <Pane layoutY="1.0" prefHeight="406.0" prefWidth="677.0" style="-fx-background-color: #FFF;">
+               <children>
+                  <Button layoutX="308.0" layoutY="177.0" mnemonicParsing="false" text="Button" textAlignment="CENTER" textFill="#eb0808" />
+                  <Label layoutX="317.0" layoutY="116.0" prefHeight="37.0" prefWidth="44.0" text="Scren" />
+               </children>
+            </Pane>
+         </children></AnchorPane>
+  </content>
+</TitledPane>
